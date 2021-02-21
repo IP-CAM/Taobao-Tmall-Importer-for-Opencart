@@ -1,1 +1,1 @@
-# taobao-tmall-importer-opencart
+# Taobao-Tmall-Importer OcMod for Opencart
